@@ -1,2 +1,2 @@
 # PowerBI_Data_analysis_projects
-Powering Insights: Advanced Data Analysis with Power BI
+In my three data analysis projects using Power BI, I went beyond dashboard creation to conduct comprehensive analyses. I enriched datasets with new tables and statistics-driven enhancements. By crafting advanced DAX measures and columns, I uncovered meaningful insights. The reports I developed offer clear analysis and actionable recommendations, empowering stakeholders to make informed decisions.
